@@ -1,0 +1,5 @@
+{{#user}}
+My name is Chinky Pasrija.
+Here are my skills : html, css ,js , PHP , Python, Java. 
+My email id is singhagam4415@gmail.com.
+ {{/user}}
